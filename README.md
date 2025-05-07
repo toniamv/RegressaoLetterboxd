@@ -8,7 +8,7 @@ Este projeto utiliza técnicas de regressão para analisar dados de filmes, expl
 ## 📁 Arquivos do Projeto
 
 - `TrabalhoMineracao_Regressao.ipynb`: código principal desenvolvido em Jupyter Notebook.
-- `seuarquivo.csv`: dataset utilizado no projeto, incluído no repositório (não é necessário fazer download externo).
+- `Movie_Data_File.csv`: dataset utilizado no projeto, incluído no repositório (não é necessário fazer download externo).
 
 ---
 
